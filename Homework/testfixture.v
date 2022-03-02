@@ -10,7 +10,7 @@ parameter GOLDEN = `OUTFILE;
 parameter N_PAT = 2000;
 parameter t_reset = `CYCLE*2;
 
-reg reset;
+//reg reset;
 reg clk;
 reg ready;
 reg stop;
